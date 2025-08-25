@@ -5,9 +5,7 @@
 
 int main(int argc, char **argv) {
     // TODO: 补全变量定义并打印加法运算
-    // x ?
-    int x = 0, y = 0;
-    std::cin >> x >> y;
+    int x = 10, y = 20;
     std::cout << x << " + " << y << " = " << x + y << std::endl;
     return 0;
 }
